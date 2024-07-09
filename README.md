@@ -1,3 +1,2 @@
-# resume-cv
+# Resume
 
-my resume and curriculum vitae, in differing formats📝
